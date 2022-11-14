@@ -23,4 +23,3 @@ print(summary(lista))
 
 # Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 #    1.00    3.00    7.00   13.09   13.50   67.00 
-
